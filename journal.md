@@ -1,4 +1,9 @@
 
+## 20210501
+
+Word2vec: https://www.tensorflow.org/tutorials/text/word2vec
+Session Colab: https://colab.research.google.com/drive/1v8obyhaTdZ18ywmlx6XBDf4I6Tzvbi-a?usp=sharing
+
 ## 20210424
 
 Word embeddings
