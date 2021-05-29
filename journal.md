@@ -1,4 +1,9 @@
 
+## 20210529
+
+Basic Text Classification: https://www.tensorflow.org/tutorials/keras/text_classification
+Session Colab: https://colab.research.google.com/drive/1gGKjVJ6WPaB7B4pamCzkC0x38Yu9_u_S
+
 ## 20210501
 
 Word2vec: https://www.tensorflow.org/tutorials/text/word2vec
