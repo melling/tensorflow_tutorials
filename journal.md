@@ -3,6 +3,8 @@
 - RNN Text Classification: https://www.tensorflow.org/text/tutorials/text_classification_rnn
 - Session Colab: https://colab.research.google.com/drive/1g-vuLad_Yeiav-XQks-sB-nxUIzxdF7g#scrollTo=rvscodIiboF-
 
+- Saving and Loading Models: https://www.tensorflow.org/tutorials/keras/save_and_load#what_are_these_files
+
 
 ## 20210529
 
