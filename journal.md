@@ -1,3 +1,8 @@
+## 20210605
+
+- RNN Text Classification: https://www.tensorflow.org/text/tutorials/text_classification_rnn
+- Session Colab: https://colab.research.google.com/drive/1g-vuLad_Yeiav-XQks-sB-nxUIzxdF7g#scrollTo=rvscodIiboF-
+
 
 ## 20210529
 
@@ -16,5 +21,6 @@
 
 ## 20210417
 
+- Advanced Hello Word: https://www.tensorflow.org/tutorials/quickstart/advanced
 - Session Colab: https://colab.research.google.com/drive/1Ps05KPp3c6wqPkvDKTt3W9y710wpxdlm#scrollTo=9D4sdDK-DLnj
 
