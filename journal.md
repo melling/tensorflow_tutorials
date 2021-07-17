@@ -1,3 +1,14 @@
+##  20210717
+
+- Time Series Continued: https://www.tensorflow.org/tutorials/structured_data/time_series
+- Session Code: https://colab.research.google.com/drive/1GO4KtatmDj_GGAE_mHDreBSmCTZIHttL
+
+
+## 20210710
+
+- Time Series: https://www.tensorflow.org/tutorials/structured_data/time_series
+- Session Code: https://colab.research.google.com/drive/1GO4KtatmDj_GGAE_mHDreBSmCTZIHttL
+
 ## 20210612
 
 - Classify text with BERT: https://www.tensorflow.org/text/tutorials/classify_text_with_bert
